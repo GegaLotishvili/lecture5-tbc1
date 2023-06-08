@@ -36,15 +36,38 @@ h4 {
 	background: #E7E7E7;
 	display: inline-block;
 	margin-right: 46px;
+	vertical-align: top;
 }
 .card2 {
 	width: 500px;
 	height: 200px;
 	background: #E7E7E7;
 	display: inline-block;
+	vertical-align: top;
 }
 
 
 img {
 	margin-right: 41px;
 }
+
+h5 {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 22px;
+	font-weight: 700;
+}
+
+h6 {
+	font-family: "BPG Square", sans-serif;
+	font-size: 22px;
+	font-weight: 700;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 28px;
+	font-weight: 300;
+}
+
+
+
